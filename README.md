@@ -16,13 +16,13 @@ To report bugs/issues/feature requests, please file an [issue](../../issues).
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_aws"></a> [aws](#requirement\_aws) | ~> 4.0 |
+| <a name="requirement_aws"></a> [aws](#requirement\_aws) | ~> 5.0 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| <a name="provider_aws"></a> [aws](#provider\_aws) | ~> 4.0 |
+| <a name="provider_aws"></a> [aws](#provider\_aws) | ~> 5.0 |
 
 ## Modules
 
@@ -38,9 +38,9 @@ No modules.
 | [aws_subnet.app](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/subnet) | data source |
 | [aws_subnet.data](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/subnet) | data source |
 | [aws_subnet.web](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/subnet) | data source |
-| [aws_subnet_ids.app](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/subnet_ids) | data source |
-| [aws_subnet_ids.data](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/subnet_ids) | data source |
-| [aws_subnet_ids.web](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/subnet_ids) | data source |
+| [aws_subnets.app](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/subnets) | data source |
+| [aws_subnets.data](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/subnets) | data source |
+| [aws_subnets.web](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/subnets) | data source |
 | [aws_vpc.main](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/vpc) | data source |
 
 ## Inputs
